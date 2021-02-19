@@ -1,0 +1,13 @@
+C:\workspace\MIO.Bank\bin\Debug\netcoreapp3.1\MIO.Bank.exe
+C:\workspace\MIO.Bank\bin\Debug\netcoreapp3.1\MIO.Bank.deps.json
+C:\workspace\MIO.Bank\bin\Debug\netcoreapp3.1\MIO.Bank.runtimeconfig.json
+C:\workspace\MIO.Bank\bin\Debug\netcoreapp3.1\MIO.Bank.runtimeconfig.dev.json
+C:\workspace\MIO.Bank\bin\Debug\netcoreapp3.1\MIO.Bank.dll
+C:\workspace\MIO.Bank\bin\Debug\netcoreapp3.1\MIO.Bank.pdb
+C:\workspace\MIO.Bank\obj\Debug\netcoreapp3.1\MIO.Bank.csprojAssemblyReference.cache
+C:\workspace\MIO.Bank\obj\Debug\netcoreapp3.1\MIO.Bank.AssemblyInfoInputs.cache
+C:\workspace\MIO.Bank\obj\Debug\netcoreapp3.1\MIO.Bank.AssemblyInfo.cs
+C:\workspace\MIO.Bank\obj\Debug\netcoreapp3.1\MIO.Bank.csproj.CoreCompileInputs.cache
+C:\workspace\MIO.Bank\obj\Debug\netcoreapp3.1\MIO.Bank.dll
+C:\workspace\MIO.Bank\obj\Debug\netcoreapp3.1\MIO.Bank.pdb
+C:\workspace\MIO.Bank\obj\Debug\netcoreapp3.1\MIO.Bank.genruntimeconfig.cache
